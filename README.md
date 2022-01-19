@@ -55,6 +55,6 @@ CGPA 8.8
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+
 
 I enjoy being outdoors. I love travelling to different countries and explore different cultures. When i am inside , i play computer games.
