@@ -8,4 +8,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/shuaibindia/">LinkedIn Profile</a>
   <br>
   <a href="https://www.github.com/shuaibindia007/">Github</a> 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
