@@ -19,7 +19,7 @@ I am a frontend engineer with an experience of over 8 years. I have hands on exp
 ## Experience
 
 ### **SENIOR FRONTEND DEVELOPER**
-### Siemens Healhtineers
+### Siemens Healthineers
 
 • Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings. 
 
