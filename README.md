@@ -22,7 +22,7 @@ I am a frontend engineer with an experience of over 8 years. I have hands on exp
 ## Certifications
 
 <p align='left'>
-  <img src="istqb.png" alt="ISTQB Certified" width="100" height="100">  
+  <img src="istqb.png" alt="ISTQB Certified" width="250" height="100">  
 </p>
 
 ---
