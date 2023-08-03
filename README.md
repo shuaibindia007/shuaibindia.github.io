@@ -1,7 +1,6 @@
 ## Portfolio
 
 I am a frontend engineer with an experience of over 10 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on angular and typescript for 6 years.
-
 ---
 
 ## Skills
